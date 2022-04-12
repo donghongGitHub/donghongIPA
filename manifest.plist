@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.161:81/dh/AppIcon512.png</string>
+					<string>https://github.com/donghongGitHub/donghongIPA/blob/d06ae3b24525157fe7e35a78fde4fe3703a5be8d/AppIcon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
