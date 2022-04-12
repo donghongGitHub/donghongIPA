@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/donghongGitHub/donghongIPA/blob/d5e31b9fd0a00a8524722d4d9017c036eadb480c/VLDTest.ipa</string>
+					<string>http://192.168.1.161:81/dh/VLDTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/donghongGitHub/donghongIPA/blob/9b07fb83eeb087b4ffb1930a0084a5c619daf6c1/AppIcon512.png</string>
+					<string>http://192.168.1.161:81/dh/AppIcon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/donghongGitHub/donghongIPA/blob/9b07fb83eeb087b4ffb1930a0084a5c619daf6c1/AppIcon57.png</string>
+					<string>http://192.168.1.161:81/dh/AppIcon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,10 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>The Title To Present To The User installing the app</string>
+				<string>顶呱刮</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+
